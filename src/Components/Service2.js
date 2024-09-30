@@ -46,7 +46,7 @@ function Service2() {
           <div className="col-lg-6 col-md-6 col-sm-12 hero-2-cont divs">
             <div className="div-1">
               <p className="orange-text">
-                Promote Your Brand Across Multiple Social Media Channels
+              Improve your Online Presence with Our Digital Marketing Expertise
               </p>
 
               <h3 className="rect-title text-dark fw-bold">Social Media Marketing</h3>
@@ -318,7 +318,7 @@ function Service2() {
         </div>
       </section>
 
-      <section className="pricing-section container-fluid section-padding">
+      {/* <section className="pricing-section container-fluid section-padding">
         <div className="container">
           <h4 className="orange-text text-center mb-3">Services Plan</h4>
           <h1 className="h1-gray text-center mb-5">
@@ -400,7 +400,7 @@ function Service2() {
             <div className="col-lg-2"></div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="container-fluid  section-padding pt-5">
         <div className="container">
