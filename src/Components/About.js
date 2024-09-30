@@ -43,7 +43,7 @@ function About() {
             </div>
             <div className="col-lg-6">
               <div className="about-text">
-                <h2>We Are Codezion Softwarezzzzzzzzzz</h2>
+                <h2>We Are Codezion</h2>
                 <p>Our team of expert developers, designers, and marketers work collaboratively to ensure that your vision is transformed into a seamless, functional, and engaging product. Whether you're looking to develop a cutting-edge mobile application, optimize your website's performance, or implement targeted marketing campaigns, Codezion Softwares has the expertise and creativity to make it happen.</p>              </div>
             </div>
             
