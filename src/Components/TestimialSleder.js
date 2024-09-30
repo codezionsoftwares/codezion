@@ -52,7 +52,7 @@ function TestimialSleder() {
             <h4>Rahul</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            This glowing feedback showcases our commitment to timely delivery and quality results. We appreciate Rahul's trust and look forward to continuing our partnership!
+            Codezion exceeded our expectations! Their team delivered a custom software solution that was not only innovative but also perfectly aligned with our business needs. The entire process was seamless, from initial consultation to final delivery. Highly recommend them for any software development needs!
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -66,7 +66,7 @@ function TestimialSleder() {
             <h4>Avinash</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Avinash’s feedback highlights our commitment to prompt service and high-quality results. We’re grateful for his trust and look forward to future collaborations!
+            Working with Codezion has been a game-changer for our company. Their expertise and dedication to quality helped us streamline our operations with a user-friendly, robust software platform. Their team is professional, communicative, and always ready to assist with any questions or updates we need.
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -80,7 +80,7 @@ function TestimialSleder() {
             <h4>Ghanshyam</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Ghanshyam’s enthusiastic feedback reflects our dedication to prompt and effective service. We truly appreciate his confidence in us and look forward to supporting him again!
+            We approached Codezion for a complex mobile app, and they did not disappoint. They took the time to understand our vision and translated it into a functional and beautiful app. The level of care and attention to detail was impressive. We couldn’t be happier with the results!
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -94,7 +94,7 @@ function TestimialSleder() {
             <h4>Ritesh</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Ritesh’s feedback emphasizes our commitment to swift and effective service. We are grateful for his trust and look forward to continuing our partnership in the future!
+            Codezion Software has truly set the bar high when it comes to customer service and technical expertise. Their team was incredibly responsive and delivered a solution that met our tight deadlines without compromising on quality. We look forward to working with them again in the future.
             </p>
           </div>
           <div className="twsti-info text-end">
