@@ -201,8 +201,7 @@ function Home() {
                   <img src="assets/images/icons/1.png" className="box-icon" alt=""/> SEO Services
                 </h3>
                 <p className="service__desc">
-                Boost your online visibility with our expert SEO optimization services.
-                 We use proven strategies to enhance your website's ranking, drive traffic, and increase conversions.
+                Our SEO services are improving your website's visibility on search engines, driving organic traffic, and enhancing your online presence.
                 </p>
 
                 <Link to="/digital-marketing-services" className="service__link">
@@ -216,9 +215,7 @@ function Home() {
                   <img src="assets/images/icons/2.png" className="box-icon" alt=""/>SMM Services
                 </h3>
                 <p className="service__desc">
-                Unlock the power of Social Media Marketing and elevate your brand! Engage with your
-                 audience through tailored content, eye-catching visuals, and strategic campaigns that drive traffic
-                  and boost conversions
+                We provide organic and paid strategies to build brand awareness, engage your audience, and drive conversions across various social platforms.
                 </p>
 
                 <Link to="/social-media-marketing" className="service__link">
@@ -229,11 +226,10 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/3.png" className="box-icon" alt=""/>PCC Services
+                  <img src="assets/images/icons/3.png" className="box-icon" alt=""/>PPC Services
                 </h3>
                 <p className="service__desc">
-                PPC (Pay-Per-Click) advertising is a powerful digital marketing strategy that drives targeted traffic to your website. By placing ads on platforms like Google and social media,
-                 you pay only when someone clicks on your ad.
+                We offer strategic PPC services to help you reach your target audience, drive qualified traffic, and achieve your business goals through paid advertising.
                 </p>
 
                 <Link to="/digital-marketing-services" className="service__link">
@@ -247,8 +243,7 @@ function Home() {
                   <img src="assets/images/icons/4.png" className="box-icon" alt=""/> Web Development
                 </h3>
                 <p className="service__desc">
-                Let's build a website that not only looks great but also performs seamlessly across all devices. 
-                Elevate your digital journey with us today!
+                We provide custom website design and development services to ensure your online presence is visually appealing, user-friendly, and optimized for performance.
                 </p>
 
                 <Link to="" className="service__link">
@@ -277,10 +272,7 @@ function Home() {
                   <img src="assets/images/icons/6.png" className="box-icon" alt=""/> Content Marketing
                 </h3>
                 <p className="service__desc">
-                Content marketing is a strategic approach focused on creating and distributing valuable, 
-                relevant content to attract and engage a target audience. By offering insightful articles, 
-                videos, and social media posts, businesses can build trust, foster relationships, and drive 
-                profitable customer actions.
+                From strategy development to content creation and promotion, our content marketing services are designed to engage your audience, drive traffic, and boost revenue.
                 </p>
 
                 <Link to="" className="service__link">
