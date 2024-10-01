@@ -28,7 +28,7 @@ function Service3() {
       <meta name="twitter:image:alt" content="codezionsoftware"/>
     </Helmet>
       <Layout/>
-      <section className="carrier_cont container section-padding pt-0">
+      {/* <section className="carrier_cont container section-padding pt-0">
         <div className="row tag_row">
           <div className="col-lg-12 tags_main">
             <span className="tag__name">I'm Looking For : </span>
@@ -61,7 +61,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="container-fluid pccAdd section-padding">
         <div className="container px-lg-5">
