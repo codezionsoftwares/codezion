@@ -52,7 +52,7 @@ function TestimialSleder() {
             <h4>Rahul</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Codezion exceeded our expectations! Their team delivered a custom software solution that was not only innovative but also perfectly aligned with our business needs. The entire process was seamless, from initial consultation to final delivery. Highly recommend them for any software development needs!
+            This agency worked closely with our team to deeply understand marketing challenges and opportunities specific to our industry. 
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -66,7 +66,7 @@ function TestimialSleder() {
             <h4>Avinash</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Working with Codezion has been a game-changer for our company. Their expertise and dedication to quality helped us streamline our operations with a user-friendly, robust software platform. Their team is professional, communicative, and always ready to assist with any questions or updates we need.
+            The team's expertise in optimizing our website performance and search visibility through technical SEO allowed us to increase qualified site traffic.
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -80,7 +80,7 @@ function TestimialSleder() {
             <h4>Ghanshyam</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            We approached Codezion for a complex mobile app, and they did not disappoint. They took the time to understand our vision and translated it into a functional and beautiful app. The level of care and attention to detail was impressive. We couldn’t be happier with the results!
+            As a B2B startup with a complex data product, their content creators effectively translated our offerings into engaging social media and blog posts focused on targeted buyer education, enhancing our inbound lead gen process.
             </p>
           </div>
           <div className="twsti-info text-end">
@@ -94,7 +94,7 @@ function TestimialSleder() {
             <h4>Ritesh</h4>
             <p>
             <i className="fa fa-quote-left"></i>
-            Codezion Software has truly set the bar high when it comes to customer service and technical expertise. Their team was incredibly responsive and delivered a solution that met our tight deadlines without compromising on quality. We look forward to working with them again in the future.
+            After they conducted an insightful website performance audit and revamped our blog strategy, organic traffic has grown by over 15% month to month.
             </p>
           </div>
           <div className="twsti-info text-end">
