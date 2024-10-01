@@ -28,7 +28,7 @@ function Service3() {
       <meta name="twitter:image:alt" content="codezionsoftware"/>
     </Helmet>
       <Layout/>
-      {/* <section className="carrier_cont container section-padding pt-0">
+      <section className="carrier_cont container section-padding pt-0">
         <div className="row tag_row">
           <div className="col-lg-12 tags_main">
             <span className="tag__name">I'm Looking For : </span>
@@ -40,7 +40,7 @@ function Service3() {
           </div>
         </div>
 
-        <div className="row hero-2  px-5 align-items-center">
+        {/* <div className="row hero-2  px-5 align-items-center">
           <div className="mt-5 col-lg-6 col-md-6 col-sm-12  divs">
             <img src="assets/images/seo-1.png" alt="" />
           </div>
@@ -60,8 +60,8 @@ function Service3() {
               </p>
             </div>
           </div>
-        </div>
-      </section> */}
+        </div> */}
+      </section>
 
       <section className="container-fluid pccAdd section-padding">
         <div className="container px-lg-5">
