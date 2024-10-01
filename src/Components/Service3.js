@@ -40,7 +40,7 @@ function Service3() {
           </div>
         </div>
 
-        {/* <div className="row hero-2  px-5 align-items-center">
+        <div className="row hero-2  px-5 align-items-center">
           <div className="mt-5 col-lg-6 col-md-6 col-sm-12  divs">
             <img src="assets/images/seo-1.png" alt="" />
           </div>
@@ -60,7 +60,7 @@ function Service3() {
               </p>
             </div>
           </div>
-        </div> */}
+        </div>
       </section>
 
       <section className="container-fluid pccAdd section-padding">
