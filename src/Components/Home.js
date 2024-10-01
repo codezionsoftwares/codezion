@@ -198,10 +198,10 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/1.png" className="box-icon" alt=""/> SEO Services
+                  <img src="assets/images/icons/1.png" className="box-icon" alt=""/> Digital Marketing
                 </h3>
                 <p className="service__desc">
-                Our SEO services are improving your website's visibility on search engines, driving organic traffic, and enhancing your online presence.
+                Improve your online presence with our customized digital marketing solutions. From SEO strategies to social media campaigns, we optimize your brand for digital success.
                 </p>
 
                 <Link to="/digital-marketing-services" className="service__link">
@@ -212,10 +212,10 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/2.png" className="box-icon" alt=""/>SMM Services
+                  <img src="assets/images/icons/2.png" className="box-icon" alt=""/>PHP Development
                 </h3>
                 <p className="service__desc">
-                We provide organic and paid strategies to build brand awareness, engage your audience, and drive conversions across various social platforms.
+                Empower your web applications with robust PHP development. Our expert team provides scalable, secure, high-performance solutions per your business needs.
                 </p>
 
                 <Link to="/social-media-marketing" className="service__link">
@@ -226,10 +226,11 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/3.png" className="box-icon" alt=""/>PPC Services
+                  <img src="assets/images/icons/3.png" className="box-icon" alt=""/>Web Development
                 </h3>
                 <p className="service__desc">
-                We offer strategic PPC services to help you reach your target audience, drive qualified traffic, and achieve your business goals through paid advertising.
+                Create visually attractive and fully functional websites with our web development expertise. We turn ideas into engaging digital experiences for your audience.
+
                 </p>
 
                 <Link to="/digital-marketing-services" className="service__link">
@@ -240,10 +241,11 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/4.png" className="box-icon" alt=""/> Web Development
+                  <img src="assets/images/icons/4.png" className="box-icon" alt=""/> Mobile App Development
                 </h3>
                 <p className="service__desc">
-                We provide custom website design and development services to ensure your online presence is visually appealing, user-friendly, and optimized for performance.
+                Transform your ideas into dynamic mobile applications. Our skilled developers create user-friendly, feature-rich apps for iOS and Android platforms.
+
                 </p>
 
                 <Link to="" className="service__link">
@@ -254,11 +256,10 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/5.png" className="box-icon" alt=""/> Online reputation management
+                  <img src="assets/images/icons/5.png" className="box-icon" alt=""/> Magento Development
                 </h3>
                 <p className="service__desc">
-                Your reputation matters. Our experts use unique strategies to protect and enhance
-                 your online image, ensuring that accurate information about you is easily found.
+                Use the power of e-commerce with Magento development. We build scalable and efficient online stores for your business, from customization to optimization.
                 </p>
 
                 <Link to="/online-reputation-management-service" className="service__link">
@@ -269,10 +270,11 @@ function Home() {
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
               <div className="content">
                 <h3 className="service__title">
-                  <img src="assets/images/icons/6.png" className="box-icon" alt=""/> Content Marketing
+                  <img src="assets/images/icons/6.png" className="box-icon" alt=""/> Shopify Development
                 </h3>
                 <p className="service__desc">
-                From strategy development to content creation and promotion, our content marketing services are designed to engage your audience, drive traffic, and boost revenue.
+                Establish your online store with Shopify development. Our expert designers and developers provide visually appealing, user-friendly e-commerce solutions.
+
                 </p>
 
                 <Link to="" className="service__link">
