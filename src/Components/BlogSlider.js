@@ -49,10 +49,9 @@ function BlogSlider() {
             <div className='blog-card'>
               <img src="assets/images/x1.png" alt="" />
               <div className="cont px-4">
-                <p className="mt-4 text-dark fw-bold">HOSTING/DOMAIN SOLUTION</p>
+                <p className="mt-4 text-dark fw-bold">Top 5 Digital Marketing Trends You Can’t Ignore in 2024</p>
                 <p className="mt-4">
-                  HOSTING/DOLorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.MAIN SOLUTION
+                Stay ahead in the ever-evolving world of digital marketing by exploring the top trends of 2024. From AI-driven content to enhanced personalization, these insights will help you craft strategies that resonate with your target audience.
                 </p>
                 <Link to="" className="text-gray">Read more <i className="far fa-angle-double-right"></i></Link>
               </div>
@@ -60,10 +59,9 @@ function BlogSlider() {
             <div className="blog-card">
               <img src="assets/images/x2.png" alt="" />
               <div className="cont px-4">
-                <p className="mt-4 text-dark fw-bold">Graphic Design</p>
+                <p className="mt-4 text-dark fw-bold">How to Boost Your SEO Strategy with AI Tools</p>
                 <p className="mt-4">
-                  HOSTING/DOLorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.MAIN SOLUTION
+                Discover how AI-powered tools are revolutionizing SEO strategies. Learn how to use AI for keyword research, content optimization, and performance analysis to improve your website’s ranking and drive more organic traffic.
                 </p>
                 <Link to="" className="text-gray">Read more <i className="far fa-angle-double-right"></i></Link>
               </div>
@@ -71,10 +69,9 @@ function BlogSlider() {
             <div className='blog-card'>
               <img src="assets/images/x3.png" alt="" />
               <div className="cont px-4">
-                <p className="mt-4 text-dark fw-bold">App Development</p>
+                <p className="mt-4 text-dark fw-bold">Mastering Social Media Advertising: A Beginner’s Guide</p>
                 <p className="mt-4">
-                  HOSTING/DOLorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.MAIN SOLUTION
+                Unlock the potential of social media advertising with this beginner-friendly guide. From setting budgets to targeting the right audience, explore tips for maximizing your ROI on platforms like Facebook, Instagram, and TikTok.
                 </p>
                 <Link to="" className="text-gray">Read more <i className="far fa-angle-double-right"></i></Link>
               </div>
@@ -82,10 +79,9 @@ function BlogSlider() {
             <div className='blog-card'>
               <img src="assets/images/x4.png" alt="" />
               <div className="cont px-4">
-                <p className="mt-4 text-dark fw-bold">Website Development</p>
+                <p className="mt-4 text-dark fw-bold">The Importance of Personalization in Email Marketing</p>
                 <p className="mt-4">
-                  HOSTING/DOLorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.MAIN SOLUTION
+                Personalization is key to successful email marketing campaigns. Learn why personalized content boosts engagement and discover actionable tips for segmenting your audience and creating tailored emails that convert subscribers into customers.
                 </p>
                 <Link to="" className="text-gray">Read more <i className="far fa-angle-double-right"></i></Link>
               </div>
@@ -93,10 +89,9 @@ function BlogSlider() {
             <div className='blog-card'>
               <img src="assets/images/x1.png" alt="" />
               <div className="cont px-4">
-                <p className="mt-4 text-dark fw-bold">HOSTING/DOMAIN SOLUTION</p>
+                <p className="mt-4 text-dark fw-bold">Why Content Marketing is Still King in 2024</p>
                 <p className="mt-4">
-                  HOSTING/DOLorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.MAIN SOLUTION
+                Content marketing continues to dominate the digital landscape. In this blog, we delve into why quality content remains essential for driving traffic, building brand authority, and increasing customer loyalty in 2024 and beyond.
                 </p>
                 <Link to="" className="text-gray">Read more <i className="far fa-angle-double-right"></i></Link>
               </div>
