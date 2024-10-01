@@ -232,7 +232,7 @@ function Service3() {
         </div>
       </section>
 
-      <section className="pricing-section ps-2 container-fluid section-padding pt-0">
+      {/* <section className="pricing-section ps-2 container-fluid section-padding pt-0">
         <div className="container">
           <h4 className="orange-text text-center mb-3">Services Plan</h4>
 
@@ -390,7 +390,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="comtainer-fluid seo-mode section-padding">
         <div className="container">
