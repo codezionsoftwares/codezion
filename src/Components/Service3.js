@@ -452,9 +452,8 @@ function Service3() {
                 <div className="workflow-image">
                   <img src="assets/images/Frame 16.png" alt=''/>
                 </div>
-                <h6>Requirement Gathering</h6>
-                <p> We first gather your digital marketing requirements. Gather details about your business, target audience,
-                  market, goal, etc. </p>
+                <h6>Plan and Strategize</h6>
+                <p> We initiate relationships by consulting with clients to deeply understand current business challenges and future goals.                </p>
               </div>
               <div className="workflow-number">
                 <h2 className="mt-2">01</h2>
@@ -466,11 +465,9 @@ function Service3() {
               </div>
               <div className="workflow-card-detail bo-redus">
                 <p>
-                  After gathering every necessary detail related to your business
-                  and requirements, we create a unique digital marketing strategy
-                  for you.
+                Our team gains market insights and identifies key performance indicators by researching websites, campaigns, and trends and reviewing client-provided data.
                 </p>
-                <h6>Create Strategy</h6>
+                <h6>Research and Analysis</h6>
                 <div className="workflow-image">
                   <img src="assets/images/Frame 16 (1).png" alt=''/>
                 </div>
@@ -483,11 +480,9 @@ function Service3() {
                 <div className="workflow-image">
                   <img src="assets/images/Frame 16 (2).png" alt=''/>
                 </div>
-                <h6 className="mt-2">Promote</h6>
+                <h6 className="mt-2">Platform Implementation</h6>
                 <p>
-                  Once we create the digital marketing strategy for your business,
-                  we implement it and promote your brand and services on the
-                  desired platforms.
+                We implement core websites, social channels, influencer onboarding, martech integration, and expanded domain authority building. 
                 </p>
               </div>
               <div className="workflow-number">
@@ -502,11 +497,9 @@ function Service3() {
                 <div className="workflow-image">
                   <img src="assets/images/Frame 16 (3).png" alt=''/>
                 </div>
-                <h6>Reporting</h6>
+                <h6>Performance Optimization</h6>
                 <p>
-                  We gather the analytic tool to access each important detail
-                  related to your digital marketing campaign and send a detailed
-                  report to you.
+                Through constant platform testing and evaluating metric outputs, we refine campaign structure and content formats, achieving improved cost per click, conversion rates, and ROI.
                 </p>
               </div>
               <div className="work-top-bg-color"></div>
