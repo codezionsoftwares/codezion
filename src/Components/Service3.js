@@ -94,7 +94,7 @@ function Service3() {
         </div>
       </section>
 
-      <section className="campain container-fluid section-padding p-0">
+      {/* <section className="campain container-fluid section-padding p-0">
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
@@ -129,7 +129,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="services services-second container-fluid section-padding">
         <div className="container main__service px-5">
