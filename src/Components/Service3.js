@@ -47,16 +47,14 @@ function Service3() {
           <div className="col-lg-6 col-md-6 col-sm-12 hero-2-cont divs">
             <div className="div-1">
               <p className="orange-text">
-                Promote Your Brand Across Multiple Social Media Channels
+              Improve your Online Presence with Our Digital Marketing Expertise
               </p>
 
               <h3 className="rect-title text-dark fw-bold">Digital Marketing Services</h3>
             </div>
             <div className="div-2 mt-5">
               <p className="page-2-desc">
-                Social Trendzz is a leading social media marketing agency that
-                focuses on driving impactful business growth through social media
-                services.
+              We have a team of skilled professionals offering various digital marketing services, from SEO and content creation to social media management. Enhance your website's visibility and drive traffic with our well-crafted strategies. Stay ahead of the competition with our cutting-edge solutions and innovative ideas.
               </p>
             </div>
           </div>
@@ -145,10 +143,10 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/16.png" className="box-icon" alt=""/> Facebook Advertising Services
+                      <img src="assets/images/icons/16.png" className="box-icon" alt=""/> Search Engine Optimization (SEO)
                     </h3>
                     <p className="service__desc">
-                      We at Social Trendzz, a social media marketing company, assist businesses to boost brand awareness by running a Facebook campaign aligned with your business goal. Our experts help you drive more customers to your business.
+                    Our SEO services are improving your website's visibility on search engines, driving organic traffic, and enhancing your online presence.
                     </p>
 
                     <Link to="" className="service__link">
@@ -159,10 +157,11 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/17.png" className="box-icon" alt=""/> LinkedIn Marketing Services
+                      <img src="assets/images/icons/17.png" className="box-icon" alt=""/> Content Marketing
                     </h3>
                     <p className="service__desc">
-                      Our experts set up a LinkedIn campaign and run it successfully while ensuring its reach among the targeted audience. We help you connect with your potential customers to grab opportunities to increase leads, conversion, and sales.
+                    From strategy development to content creation and promotion, our content marketing services are designed to engage your audience, drive traffic, and boost revenue.
+
                     </p>
 
                     <Link to="" className="service__link">
@@ -173,10 +172,10 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/18.png" className="box-icon" alt=""/> Instagram Marketing Services
+                      <img src="assets/images/icons/18.png" className="box-icon" alt=""/> Pay-Per-Click (PPC) Advertising
                     </h3>
                     <p className="service__desc">
-                      With us, you can harness the power of Instagram to attract more followers for your business. Our social media experts create the targeted campaign to boost your brand engagement and also improve the visibility of your Instagram account.
+                    We offer strategic PPC services to help you reach your target audience, drive qualified traffic, and achieve your business goals through paid advertising.
                     </p>
 
                     <Link to="" className="service__link">
@@ -187,10 +186,11 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/19.png" className="box-icon" alt=""/> YouTube Marketing Services
+                      <img src="assets/images/icons/19.png" className="box-icon" alt=""/> Social Media Marketing
                     </h3>
                     <p className="service__desc">
-                      Video advertising is on the rise of late and many businesses already benefit from this. At Social Trendzz, our social media marketing services help you target YouTube to grow your business. We create and advertise videos on YouTube.
+                      
+                    We provide organic and paid strategies to build brand awareness, engage your audience, and drive conversions across various social platforms.
                     </p>
 
                     <Link to="" className="service__link">
@@ -201,10 +201,10 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> Pinterest Marketing ServicesAdvertisement
+                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> Website Design and Development
                     </h3>
                     <p className="service__desc">
-                      Pinterest has a vast potential to help the business grow by achieving its goal. We render Pinterest marketing services to help your business increase vast traffic to your website and increase sales by drawing the attention of more people with different interests.
+                    We provide custom website design and development services to ensure your online presence is visually appealing, user-friendly, and optimized for performance.
                     </p>
 
                     <Link to="" className="service__link">
@@ -215,10 +215,24 @@ function Service3() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/21.png" className="box-icon" alt=""/> Twitter Marketing Services
+                      <img src="assets/images/icons/21.png" className="box-icon" alt=""/> Email Marketing
                     </h3>
                     <p className="service__desc">
-                      Twitter is one of the best platforms to find potential customers and grow business. No matter what type of business you run, we help you boost your business through our best-in-class Twitter marketing services.
+                    Our services help you connect with your audience, nurture leads, and drive conversions through targeted and personalized email campaigns.
+                    </p>
+
+                    <Link to="" className="service__link">
+                      Learn more <i className="fa fa-chevron-right"></i>
+                    </Link>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
+                  <div className="content">
+                    <h3 className="service__title">
+                      <img src="assets/images/icons/21.png" className="box-icon" alt=""/> Analytics and Reporting
+                    </h3>
+                    <p className="service__desc">
+                    We offer comprehensive analytics and reporting services to provide valuable insights into the performance of your digital marketing efforts and make data-driven decisions.
                     </p>
 
                     <Link to="" className="service__link">
