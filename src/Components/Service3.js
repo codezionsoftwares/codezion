@@ -63,7 +63,7 @@ function Service3() {
         </div>
       </section>
 
-      {/* <section className="container-fluid pccAdd section-padding">
+      <section className="container-fluid pccAdd section-padding">
         <div className="container px-lg-5">
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12">
@@ -92,7 +92,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
       <section className="campain container-fluid section-padding p-0">
         <div className="container">
@@ -392,7 +392,7 @@ function Service3() {
         </div>
       </section> */}
 
-      {/* <section className="comtainer-fluid seo-mode section-padding">
+      <section className="comtainer-fluid seo-mode section-padding">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
@@ -411,7 +411,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
       <section className="section-padding workflow-cont section-padding">
         <div className="container">
@@ -501,7 +501,7 @@ function Service3() {
         </div>
       </section>
 
-      {/* <section className="comtainer-fluid seo-mode-2 section-padding">
+      <section className="comtainer-fluid seo-mode-2 section-padding">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
@@ -521,7 +521,7 @@ function Service3() {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
       <section className="container-fluid blogfour section-padding pt-5">
         <div className="container">
