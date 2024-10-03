@@ -248,7 +248,7 @@ function Service1() {
 
               <h3>
                 PPC
-                <span className="text-dark fw-bold">Marketing <br />Channels</span>
+                <span className="text-dark fw-bold"> Marketing <br /> Channels</span>
               </h3>
 
               <p className="text-gray">
@@ -312,8 +312,8 @@ function Service1() {
 
               <h3 className="mb-4">
                 Drive More
-                <span className="text-dark fw-bold">Sales, <br />Conversion</span>
-                & Revenue
+                <span className="text-dark fw-bold"> Sales, <br /> Conversion</span>
+                 & Revenue
               </h3>
 
               <p className="text-gray fw-light">
@@ -332,7 +332,7 @@ function Service1() {
               <div className="workflow-hedding">
                 <h1 className="text-center title__workflow">
                   Our
-                  <span className="text-dark fw-700">Workflow</span>
+                  <span className="text-dark fw-700"> Workflow</span>
                 </h1>
                 <p className="text-center w-75 m-auto mb-5 text-tertiary fw-600">
                   Our workflow is simple and well-defined. We as an online

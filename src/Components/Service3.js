@@ -434,7 +434,7 @@ function Service3() {
               <div className="workflow-hedding">
                 <h1 className="text-center title__workflow">
                   Our
-                  <span className="text-dark fw-700">Workflow</span>
+                  <span className="text-dark fw-700"> Workflow</span>
                 </h1>
                 <p className="text-center w-75 m-auto mb-5 text-tertiary fw-600">
                   Our workflow is simple and well-defined. We as an online

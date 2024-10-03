@@ -135,7 +135,7 @@ function Service2() {
           <h5 className="text-center orange-text">Our Process</h5>
           <h1 className="text-center title__workflow mb-5">
             What Our Social Media
-            <span className="text-dark fw-700">Marketing Services Include</span>
+            <span className="text-dark fw-700"> Marketing Services Include</span>
           </h1>
 
           <div className="row">
@@ -200,7 +200,7 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> Pinterest Marketing ServicesAdvertisement
+                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> Pinterest Marketing Services Advertisement
                     </h3>
                     <p className="service__desc">
                       Pinterest has a vast potential to help the business grow by achieving its goal. We render Pinterest marketing services to help your business increase vast traffic to your website and increase sales by drawing the attention of more people with different interests.
@@ -242,7 +242,7 @@ function Service2() {
 
               <h3>
                 Why Social 
-                <span className="text-dark fw-bold">Media<br />for Business</span>
+                <span className="text-dark fw-bold"> Media<br /> for Business</span>
               </h3>
 
               <p className="text-gray">
@@ -306,7 +306,7 @@ function Service2() {
 
               <h3 className="h1-gray">
                 Contact Us To Share <br />Your
-                <span className="text-dark fw-bold">Social Media Marketing Requirements</span>
+                <span className="text-dark fw-bold"> Social Media Marketing Requirements</span>
               </h3>
 
               <p className="text-gray fw-light">
@@ -450,7 +450,7 @@ function Service2() {
 
               <h3 className="h1-gray">
                 Know about
-                <span className="text-dark fw-bold">The basics Of Digital Marketing.</span>
+                <span className="text-dark fw-bold"> The basics Of Digital Marketing.</span>
               </h3>
 
               <div className="accordion mt-5" id="accordionExample">
