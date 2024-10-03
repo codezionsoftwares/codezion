@@ -95,7 +95,7 @@ function Careers() {
           <div className="row pt-5">
             <div className="col-lg-4 col-md-6">
               <div className="culture-box">
-              <i className="fa fa-hand-holding-heart"></i>
+              <i class="fa-regular fa-handshake"></i>
                 <h5>Collaboration</h5>
                 <p>We blend a kaleidoscope of talents, sparking a stmphony of creativity that guides us toword breakthroughs.</p>
               </div>
