@@ -264,7 +264,6 @@ function Service2() {
                     </p>
                   </div>
                 </div>
-                <a class="btn-thm-main learn-more" href="#">Contact Now <i class="far fa-angle-double-right"></i></a>
               </div>
             </div>
           </div>
@@ -291,6 +290,7 @@ function Service2() {
               </p>
             </div>
           </div>
+          <a class="btn-thm-main learn-more" href="#">Contact Now <i class="far fa-angle-double-right"></i></a>
         </div>
       </section>
 
