@@ -18,6 +18,13 @@
     padding: 0 20px !important;
     max-width: 100% !important;
   }
+  .product-box {
+    text-align: center;
+}
+.product-box:before {
+  top: 52px;
+  left: 0;
+}
 }
 
 @media (max-width: 1256px) {

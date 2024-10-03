@@ -1258,7 +1258,7 @@ ul.sub-menu-items {
 
 .marketing h3 {
   font-size: 1.4rem;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-weight: 600;
   margin-bottom: 1rem;
 }
@@ -1392,7 +1392,7 @@ ion-icon {
 }
 .services .service__link {
   font-size: 1.2rem;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
 }
 
 /* ====================== IND
