@@ -691,7 +691,7 @@ table img {
 .thm-btn:hover,
 .thm-btn:focus {
   color: var(--font-color);
-  background-color: var(--thm-color-four);
+  background-color: var(--thm-color-three);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.11);
 }
 
@@ -727,7 +727,7 @@ table img {
 }
 
 .thm-color-four {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
 }
 
 .thm-bg-color-one {
@@ -747,7 +747,7 @@ table img {
 }
 
 .thm-bg-color-four {
-  background-color: var(--thm-color-four);
+  background-color: var(--thm-color-three);
 }
 
 .fw-500 {
@@ -1566,7 +1566,7 @@ USTRIES ======================== */
 }
 
 .choose__us__content h3 {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-size: 20px;
 }
 
@@ -1576,7 +1576,7 @@ USTRIES ======================== */
 }
 
 .view__btn {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   transition: 0.3s;
 }
 
@@ -1594,7 +1594,7 @@ USTRIES ======================== */
 
 .choose__us .slider__choose__us .slick-arrow {
   border-color: #000;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-weight: 700;
 }
 
@@ -1740,7 +1740,7 @@ USTRIES ======================== */
 /* ==================== Milestone -section ===================== */
 
 .orange-text {
-  color: var(--thm-color-four) !important;
+  color: var(--thm-color-three) !important;
   font-size: 1.3rem;
 }
 
@@ -1955,7 +1955,7 @@ section.milestone--section {
 }
 
 .details__icons p i {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-size: 1rem !important;
 }
 
@@ -2105,7 +2105,7 @@ a.footer-link i {
 
 .pccAdd h3 {
   font-size: 20px;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   line-height: 2;
 }
 
@@ -2146,7 +2146,7 @@ a.footer-link i {
 }
 
 .campain h3 ion-icon {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-size: 28px;
 
   background: var(--thm-border);
@@ -2155,7 +2155,7 @@ a.footer-link i {
 }
 
 .campain a {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
 }
 
 .services-second {
@@ -2282,7 +2282,7 @@ a.footer-link i {
   font-size: 16px;
   line-height: 1;
   opacity: .75;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   position: absolute;
   content: '\f053';
   bottom: -50px;
@@ -2361,12 +2361,12 @@ a.footer-link i {
 }
 
 .active-2 .slick-next::before {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   content: '\f101' !important;
 }
 
 .active-2 .text-gray:hover {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
 }
 
 .detailed-reporting {
@@ -2384,7 +2384,7 @@ a.footer-link i {
 }
 
 .accordion-header button i {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
 }
 
 .seo-mode img,
@@ -2464,7 +2464,7 @@ textarea {
   font-family: 'Font Awesome 5 Pro';
   line-height: 1;
   opacity: 1 !important;
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   position: absolute;
   content: '\f053';
   bottom: -270px;
@@ -3133,7 +3133,7 @@ section.section-padding.about-bg-section {
   background: #000000b8;
 } */
 .contact-title p {
-  color: var(--thm-color-four);
+  color: var(--thm-color-three);
   font-size: 18px;
 }
 .media-icon-part img {
