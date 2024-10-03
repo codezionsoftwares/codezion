@@ -11,6 +11,7 @@ import Service1 from './Components/Service1';
 import Service2 from './Components/Service2';
 import Service3 from './Components/Service3';
 import Service4 from './Components/Service4';
+import CareerDetails from './Components/CareerDetails';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='/' element={<Home/>} />
         <Route path='/about' element={<About/>} />
         <Route path='/careers' element={<Careers/>} />
+        <Route path='/careerdetails' element={<CareerDetails/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/ppc' element={<Service1/>} />
         <Route path='/social-media-marketing' element={<Service2/>} />
