@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Footer from './Footer'
 import Layout from './Layout'
-import PartnerSlider from './PartnerSlider'
+// import PartnerSlider from './PartnerSlider'
 import TestimialSleder from './TestimialSleder'
 import { Helmet } from 'react-helmet-async';
 
@@ -26,6 +26,8 @@ function Service1() {
       <meta name="twitter:description" content="Maximize your ROI with Codezion's expert PPC services! Drive targeted traffic, increase conversions, and watch your business grow."/>
       <meta name="twitter:image" content="https://www.codezion.com/"/>
       <meta name="twitter:image:alt" content="codezionsoftware"/>
+      <meta name="robots" content="index, follow" />
+
     </Helmet>
       <Layout/>
       <section className="carrier_cont main-2 container section-padding pt-0">
@@ -47,24 +49,21 @@ function Service1() {
           <div className="col-lg-6 col-md-6 col-sm-12 hero-2-cont divs">
             <div className="div-1">
               <p className="orange-text">
-                Hire PPC Experts to Leverage the Power of Google Ads Paid
-                Campaigns to Drive Business Success
+              PPC Experts for Your Business Growth
               </p>
 
               <h3 className="rect-title text-dark fw-bold">Pay Per Click</h3>
             </div>
             <div className="div-2 mt-5">
               <p className="page-2-desc">
-                Social Trendzz is a leading PPC management company in India, our
-                team of google ads specialists is here to help you unlock new
-                opportunities and drive success for your business.
+              Unlock the full potential of Google Ads and Pay-Per-Click (PPC) campaigns with Codezion. As a leading PPC management company in India, we specialize in creating targeted campaigns that drive business success. Whether you're looking to enhance your brand visibility, generate more leads, or boost sales, our PPC experts use data-driven strategies to help you achieve your marketing goals.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      <section className="container-fluid pccAdd section-padding">
+      {/* <section className="container-fluid pccAdd section-padding">
         <div className="container px-lg-5">
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12">
@@ -91,9 +90,9 @@ function Service1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
-      <section className="campain container-fluid section-padding p-0">
+      {/* <section className="campain container-fluid section-padding p-0">
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
@@ -134,13 +133,13 @@ function Service1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="services services-second container-fluid section-padding">
         <div className="container main__service px-5">
-          <h5 className="text-center orange-text">Our Process</h5>
+          <h5 className="text-center orange-text">Our Services</h5>
           <h1 className="text-center title__workflow mb-5">
-            What Our SEO
+            What Our PPC 
             <span className="text-dark fw-700">Services Include</span>
           </h1>
 
@@ -153,7 +152,7 @@ function Service1() {
                       <img src="assets/images/icons/10.png" className="box-icon" alt=""/> Display Advertisement
                     </h3>
                     <p className="service__desc">
-                      Make your reach among 90% of online users with our display advertisement. Our experts set up and run the most effective campaign that appears on different Google partner websites. We display the finest combination of ads and images to catch the attention of users.
+                    Expand your brand’s reach by placing visually engaging ads across a network of websites. Our display advertising service targets specific audiences, helping you boost awareness, drive traffic, and increase conversions with eye-catching ads strategically positioned on high-traffic platforms.
                     </p>
 
                    <Link to="" className="service__link">
@@ -167,7 +166,7 @@ function Service1() {
                       <img src="assets/images/icons/11.png" className="box-icon" alt=""/> Search Advertisement
                     </h3>
                     <p className="service__desc">
-                      Leverage the power of our social marketing media services to reach your prospects. We as a B2B digital marketing company serve businesses of all sizes and help them make their social media presence more powerful to drive more leads, conversions.
+                    Capture high-intent customers by appearing at the top of search engine results. Our search advertising service helps your business get noticed by those actively searching for your products or services, driving qualified traffic and increasing conversions through targeted keyword campaigns.
                     </p>
 
                    <Link to="" className="service__link">
@@ -181,7 +180,7 @@ function Service1() {
                       <img src="assets/images/icons/12.png" className="box-icon" alt=""/> Video Advertisement
                     </h3>
                     <p className="service__desc">
-                      Our specialization also includes running video campaigns to make your online branding successful. Our professionals are versed in the latest practices and implement these successfully to create an outcome-driven campaign.
+                    Engage and captivate your audience with compelling video ads on platforms like YouTube and social media. Our video advertising service boosts brand awareness, drives traffic, and increases conversions through visually impactful and targeted video content, ensuring your message reaches the right audience at the right time.
                     </p>
 
                    <Link to="" className="service__link">
@@ -195,7 +194,7 @@ function Service1() {
                       <img src="assets/images/icons/13.png" className="box-icon" alt=""/>  Mobile Advertisement
                     </h3>
                     <p className="service__desc">
-                      Are you seeking to target fast-growing mobile users? We at Social Trendzz are here to assist you with our vast capability of mobile advertisement. Our experts create a mobile ad campaign that aids business in reaching mobile users most effectively.
+                    Reach your audience on-the-go with optimized mobile ads designed for smartphones and tablets. Our mobile advertising service ensures your brand connects with potential customers through tailored, location-based ads, driving traffic, increasing engagement, and boosting conversions on mobile devices.
                     </p>
 
                    <Link to="" className="service__link">
@@ -209,7 +208,7 @@ function Service1() {
                       <img src="assets/images/icons/14.png" className="box-icon" alt=""/> Social Advertisement
                     </h3>
                     <p className="service__desc">
-                      Maximizing your reach among your targeted audience is necessary to grow your business. We are a group of PPC experts who run social advertising. Our experts create social ads to help you make an impeccable presence among your targeted market.
+                    Maximize your brand's visibility and engagement across platforms like Facebook, Instagram, and LinkedIn. Our social advertising service creates targeted campaigns that connect with your ideal audience, driving traffic, building brand awareness, and increasing conversions through highly personalized and interactive ads.
                     </p>
 
                    <Link to="" className="service__link">
@@ -223,7 +222,7 @@ function Service1() {
                       <img src="assets/images/icons/15.png" className="box-icon" alt=""/> Remarketing Advertisement
                     </h3>
                     <p className="service__desc">
-                      Remarketing is one of the effective ways of engaging with your potential customers. We create remarketing campaigns driven by a robust strategy. Our PPC experts India launch your remarketing campaign to target past customers.
+                    Re-engage visitors who have interacted with your website by delivering tailored ads that remind them of your products or services. Our remarketing advertisement service helps boost conversions and increase sales by strategically targeting previous visitors, encouraging them to return and complete their purchase.
                     </p>
 
                    <Link to="" className="service__link">
@@ -236,7 +235,7 @@ function Service1() {
           </div>
         </div>
       </section>
-
+{/* 
       <section className="comtainer-fluid ppc-marketing section-padding">
         <div className="container">
           <div className="row">
@@ -248,7 +247,7 @@ function Service1() {
 
               <h3>
                 PPC
-                <span className="text-dark fw-bold">Marketing <br />Channels</span>
+                <span className="text-dark fw-bold"> Marketing <br /> Channels</span>
               </h3>
 
               <p className="text-gray">
@@ -299,7 +298,7 @@ function Service1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="comtainer-fluid drive-mode section-padding">
         <div className="container">
@@ -312,14 +311,14 @@ function Service1() {
 
               <h3 className="mb-4">
                 Drive More
-                <span className="text-dark fw-bold">Sales, <br />Conversion</span>
-                & Revenue
+                <span className="text-dark fw-bold"> Sales, <br /> Conversion</span>
+                 & Revenue
               </h3>
 
               <p className="text-gray fw-light">
-                We target different channels to target multiple platforms to match
-                the diversified needs of our clients.
+              Ready to take your business to the next level? Contact us today to learn more about how our PPC management services can help you achieve your business goals.
               </p>
+              <a class="btn-thm-main learn-more" href="/contact">Contact Now <i class="far fa-angle-double-right"></i></a>
             </div>
           </div>
         </div>
@@ -332,7 +331,7 @@ function Service1() {
               <div className="workflow-hedding">
                 <h1 className="text-center title__workflow">
                   Our
-                  <span className="text-dark fw-700">Workflow</span>
+                  <span className="text-dark fw-700"> Workflow</span>
                 </h1>
                 <p className="text-center w-75 m-auto mb-5 text-tertiary fw-600">
                   Our workflow is simple and well-defined. We as an online
@@ -421,7 +420,7 @@ function Service1() {
       <div className="col-lg-10">
       <h1 className="text-center title__milestone">Our
       <span className="text-dark fw-bold"> Product</span></h1>
-      <p>Browse a comprehensive list of Google products designed to help you work and play, stay organised, get answers, keep in touch, grow your business and more. We're passionate about creative product design, so before bringing each new item into our assortment we make it a point to ask: "What makes this an uncommon good?"</p>
+      <p>We serve a diverse range of industries and offer customized solutions to meet the needs of each client. Some of our trusted partners include:</p>
       </div>
     </div>
     <div className="row pt-4">
@@ -477,9 +476,9 @@ function Service1() {
     </div>
   </section>
   {/* testimonial end */}
-  <section className="trusted--sectiona section-padding p-0">    
+  {/* <section className="trusted--sectiona section-padding p-0">    
     <PartnerSlider/>
-  </section>
+  </section> */}
     <Footer/>
     </div>
   )
