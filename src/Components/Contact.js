@@ -66,6 +66,8 @@ function Contact() {
         />
         <meta name="twitter:image" content="https://www.codezion.com/" />
         <meta name="twitter:image:alt" content="codezionsoftware" />
+        <meta name="robots" content="index, follow" />
+
       </Helmet>
       <Layout />
       <section className="section-padding subheader-section">

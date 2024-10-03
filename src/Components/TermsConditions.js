@@ -2,10 +2,16 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Layout from './Layout'
 import Footer from './Footer'
+import { Helmet } from 'react-helmet-async';
+
 
 function TermsConditions() {
   return (
     <div>
+      <Helmet>
+      <meta name="robots" content="index, follow" />
+
+      </Helmet>
       <Layout/>
       <section className="section-padding subheader-section">
         <div className="container">

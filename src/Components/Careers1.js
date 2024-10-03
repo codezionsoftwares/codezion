@@ -24,6 +24,8 @@ function Careers() {
       <meta name="twitter:description" content="Kickstart or advance your career with Codezion Softwares! Explore exciting opportunities to work on innovative projects, grow professionally, and thrive in a supportive environment. Join us and shape the future of technology!"/>
       <meta name="twitter:image" content="https://www.codezion.com/"/>
       <meta name="twitter:image:alt" content="codezionsoftware"/>
+      <meta name="robots" content="index, follow" />
+
     </Helmet>
     {/* ---meta tag end--------- */}
     <Layout/>

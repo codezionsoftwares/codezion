@@ -23,6 +23,8 @@ function Service4() {
       <meta name="twitter:description" content="Explore our extensive collection of website templates designed for every niche! Perfect for businesses of all sizes, startups, and unique projects. Find your ideal design today!!"/>
       <meta name="twitter:image" content="https://www.codezion.com/"/>
       <meta name="twitter:image:alt" content="codezionsoftware"/>
+      <meta name="robots" content="index, follow" />
+
     </Helmet>
       <Layout/>
       <section className="carrier_cont container section-padding pt-0">

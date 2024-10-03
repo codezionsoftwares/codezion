@@ -34,6 +34,8 @@ function Home() {
         <meta name="keywords" content="mobile app developement company, digital marketing company, web development company, website speed optimization" />
 
         <link rel="canonical" href="https://www.codezion.com/"/>
+        <meta name="robots" content="index, follow" />
+
         
       </Helmet>
 
