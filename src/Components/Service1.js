@@ -47,17 +47,14 @@ function Service1() {
           <div className="col-lg-6 col-md-6 col-sm-12 hero-2-cont divs">
             <div className="div-1">
               <p className="orange-text">
-                Hire PPC Experts to Leverage the Power of Google Ads Paid
-                Campaigns to Drive Business Success
+              PPC Experts for Your Business Growth
               </p>
 
               <h3 className="rect-title text-dark fw-bold">Pay Per Click</h3>
             </div>
             <div className="div-2 mt-5">
               <p className="page-2-desc">
-                Social Trendzz is a leading PPC management company in India, our
-                team of google ads specialists is here to help you unlock new
-                opportunities and drive success for your business.
+              Unlock the full potential of Google Ads and Pay-Per-Click (PPC) campaigns with Codezion. As a leading PPC management company in India, we specialize in creating targeted campaigns that drive business success. Whether you're looking to enhance your brand visibility, generate more leads, or boost sales, our PPC experts use data-driven strategies to help you achieve your marketing goals.
               </p>
             </div>
           </div>
