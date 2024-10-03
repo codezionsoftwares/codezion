@@ -138,9 +138,9 @@ function Service1() {
 
       <section className="services services-second container-fluid section-padding">
         <div className="container main__service px-5">
-          <h5 className="text-center orange-text">Our Process</h5>
+          <h5 className="text-center orange-text">Our Services</h5>
           <h1 className="text-center title__workflow mb-5">
-            What Our SEO
+            What Our PPC 
             <span className="text-dark fw-700">Services Include</span>
           </h1>
 
@@ -153,7 +153,7 @@ function Service1() {
                       <img src="assets/images/icons/10.png" className="box-icon" alt=""/> Display Advertisement
                     </h3>
                     <p className="service__desc">
-                      Make your reach among 90% of online users with our display advertisement. Our experts set up and run the most effective campaign that appears on different Google partner websites. We display the finest combination of ads and images to catch the attention of users.
+                    Expand your brand’s reach by placing visually engaging ads across a network of websites. Our display advertising service targets specific audiences, helping you boost awareness, drive traffic, and increase conversions with eye-catching ads strategically positioned on high-traffic platforms.
                     </p>
 
                    <Link to="" className="service__link">
@@ -167,7 +167,7 @@ function Service1() {
                       <img src="assets/images/icons/11.png" className="box-icon" alt=""/> Search Advertisement
                     </h3>
                     <p className="service__desc">
-                      Leverage the power of our social marketing media services to reach your prospects. We as a B2B digital marketing company serve businesses of all sizes and help them make their social media presence more powerful to drive more leads, conversions.
+                    Capture high-intent customers by appearing at the top of search engine results. Our search advertising service helps your business get noticed by those actively searching for your products or services, driving qualified traffic and increasing conversions through targeted keyword campaigns.
                     </p>
 
                    <Link to="" className="service__link">
@@ -181,7 +181,7 @@ function Service1() {
                       <img src="assets/images/icons/12.png" className="box-icon" alt=""/> Video Advertisement
                     </h3>
                     <p className="service__desc">
-                      Our specialization also includes running video campaigns to make your online branding successful. Our professionals are versed in the latest practices and implement these successfully to create an outcome-driven campaign.
+                    Engage and captivate your audience with compelling video ads on platforms like YouTube and social media. Our video advertising service boosts brand awareness, drives traffic, and increases conversions through visually impactful and targeted video content, ensuring your message reaches the right audience at the right time.
                     </p>
 
                    <Link to="" className="service__link">
@@ -195,7 +195,7 @@ function Service1() {
                       <img src="assets/images/icons/13.png" className="box-icon" alt=""/>  Mobile Advertisement
                     </h3>
                     <p className="service__desc">
-                      Are you seeking to target fast-growing mobile users? We at Social Trendzz are here to assist you with our vast capability of mobile advertisement. Our experts create a mobile ad campaign that aids business in reaching mobile users most effectively.
+                    Reach your audience on-the-go with optimized mobile ads designed for smartphones and tablets. Our mobile advertising service ensures your brand connects with potential customers through tailored, location-based ads, driving traffic, increasing engagement, and boosting conversions on mobile devices.
                     </p>
 
                    <Link to="" className="service__link">
@@ -209,7 +209,7 @@ function Service1() {
                       <img src="assets/images/icons/14.png" className="box-icon" alt=""/> Social Advertisement
                     </h3>
                     <p className="service__desc">
-                      Maximizing your reach among your targeted audience is necessary to grow your business. We are a group of PPC experts who run social advertising. Our experts create social ads to help you make an impeccable presence among your targeted market.
+                    Maximize your brand's visibility and engagement across platforms like Facebook, Instagram, and LinkedIn. Our social advertising service creates targeted campaigns that connect with your ideal audience, driving traffic, building brand awareness, and increasing conversions through highly personalized and interactive ads.
                     </p>
 
                    <Link to="" className="service__link">
@@ -223,7 +223,7 @@ function Service1() {
                       <img src="assets/images/icons/15.png" className="box-icon" alt=""/> Remarketing Advertisement
                     </h3>
                     <p className="service__desc">
-                      Remarketing is one of the effective ways of engaging with your potential customers. We create remarketing campaigns driven by a robust strategy. Our PPC experts India launch your remarketing campaign to target past customers.
+                    Re-engage visitors who have interacted with your website by delivering tailored ads that remind them of your products or services. Our remarketing advertisement service helps boost conversions and increase sales by strategically targeting previous visitors, encouraging them to return and complete their purchase.
                     </p>
 
                    <Link to="" className="service__link">
