@@ -314,8 +314,7 @@ function Service1() {
               </h3>
 
               <p className="text-gray fw-light">
-                We target different channels to target multiple platforms to match
-                the diversified needs of our clients.
+              Ready to take your business to the next level? Contact us today to learn more about how our PPC management services can help you achieve your business goals.
               </p>
             </div>
           </div>
