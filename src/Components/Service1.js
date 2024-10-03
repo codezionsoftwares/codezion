@@ -418,7 +418,7 @@ function Service1() {
       <div className="col-lg-10">
       <h1 className="text-center title__milestone">Our
       <span className="text-dark fw-bold"> Product</span></h1>
-      <p>Browse a comprehensive list of Google products designed to help you work and play, stay organised, get answers, keep in touch, grow your business and more. We're passionate about creative product design, so before bringing each new item into our assortment we make it a point to ask: "What makes this an uncommon good?"</p>
+      <p>We serve a diverse range of industries and offer customized solutions to meet the needs of each client. Some of our trusted partners include:</p>
       </div>
     </div>
     <div className="row pt-4">
