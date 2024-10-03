@@ -2172,7 +2172,7 @@ a.footer-link i {
 }
 
 .text-gray {
-  color: var(--font-color-light);
+  color: #15a09f;
   font-size: 16px;
   margin-top: 1rem !important;
   font-weight: 500;
@@ -2731,8 +2731,7 @@ background-image: url(../images/Background1.png);
   margin-bottom: 15px;
 }
 .btn.btn-live {
-  background: red;
-  background: #FF774C;
+  background: #15a09f;
   color: #fff;
 }
 .hero-4::before {
