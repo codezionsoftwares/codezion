@@ -146,7 +146,7 @@ function Footer() {
                         <li><span className="dot"></span></li>
                         <li><Link to="/" className="">Sitemap</Link></li>
                         <li><span className="dot"></span></li>
-                        <li><Link to="/careers" className="">Career</Link></li>
+                        {/* <li><Link to="/careers" className="">Career</Link></li> */}
                     </ul>
                 </div>
                 <div className="col-md-6 ">
