@@ -64,7 +64,7 @@ function Service1() {
         </div>
       </section>
 
-      <section className="container-fluid pccAdd section-padding">
+      {/* <section className="container-fluid pccAdd section-padding">
         <div className="container px-lg-5">
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12">
@@ -91,7 +91,7 @@ function Service1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="campain container-fluid section-padding p-0">
         <div className="container">
