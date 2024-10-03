@@ -109,7 +109,7 @@ function Careers() {
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="culture-box">
-              <i class="fa fa-hand-back-fist"></i>
+              <i class="fa fa-hand-holding-heart"></i>
                 <h5>Empowerment</h5>
                 <p>We blend a kaleidoscope of talents, sparking a stmphony of creativity that guides us toword breakthroughs.</p>
               </div>
