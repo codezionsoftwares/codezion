@@ -526,14 +526,6 @@ ul.footer-list {
   margin-right: auto;
   margin-top: 20px;
 }
-.fort-box.border-left {
-  border-left: 0px solid #ccc;
-  padding-left: 15px;
-}
-.social-item li a {
-  padding-bottom: 8px;
-  gap: 5px;
-}
 }
 @media screen and (min-width: 576px) and (max-width: 767px) { 
   .card-deck {
@@ -1148,9 +1140,6 @@ ul.footer-list {
   display: flex;
   align-items: center;
   gap: 25px;
-}
-.culture.border-left {
-  margin-top: 26px;
 }
 }
 
