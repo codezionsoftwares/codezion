@@ -401,14 +401,12 @@ function Service2() {
               <h5 className="orange-text mb-4">Social Media Marketing</h5>
 
               <h3 className="h1-gray">
-                Detailed
-                <span className="text-dark fw-bold"> Reporting</span>
+              Detailed Reporting for 
+                <span className="text-dark fw-bold"> Data-Driven Success</span>
               </h3>
 
               <p className="text-gray fw-light">
-                We send you a detailed report of even every small performance of a
-                campaign and help you know how beneficial the campaign is for your
-                business.
+              At Codezion, we provide comprehensive reports, offering insights into your campaign’s performance. We track essential metrics like engagement, impressions, conversions, and more, so you can see the tangible results of your investment.
               </p>
             </div>
           </div>
@@ -435,17 +433,13 @@ function Service2() {
                     <button className="accordion-button fw-bold border-0 outline-none shadow-none" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
                       aria-controls="collapseOne">
-                      <i className="fa fa-dot-circle"></i> What is social media
-                      advertising?
+                      <i className="fa fa-dot-circle"></i> What is social media marketing?
                     </button>
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne"
                     data-bs-parent="#accordionExample">
                     <div className="accordion-body">
-                      Social media advertising is a method of promoting products
-                      or services through various social media platforms, using
-                      paid ads and targeting specific audiences to generate leads,
-                      sales, and brand awareness.
+                    Social media marketing involves using platforms like Facebook, Instagram, Twitter, LinkedIn, and YouTube to promote your business. It includes creating content, engaging with your audience, and running targeted ad campaigns to increase brand visibility, drive traffic, and boost conversions.
                     </div>
                   </div>
                 </div>
@@ -454,17 +448,13 @@ function Service2() {
                     <button className="accordion-button collapsed fw-bold border-0 outline-none shadow-none" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
                       aria-controls="collapseTwo">
-                      <i className="fa fa-dot-circle"></i>How does targeting work in
-                      social media advertising?
+                      <i className="fa fa-dot-circle"></i>Why is social media marketing important for my business?
                     </button>
                   </h2>
                   <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo"
                     data-bs-parent="#accordionExample">
                     <div className="accordion-body">
-                      Social media advertising is a method of promoting products
-                      or services through various social media platforms, using
-                      paid ads and targeting specific audiences to generate leads,
-                      sales, and brand awareness.
+                    Social media marketing helps businesses connect directly with their audience, build brand awareness, and drive customer engagement. It offers cost-effective ways to reach a global audience, generate leads, and increase sales through targeted campaigns and real-time interactions.
                     </div>
                   </div>
                 </div>
@@ -473,17 +463,13 @@ function Service2() {
                     <button className="accordion-button collapsed fw-bold border-0 outline-none shadow-none" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
                       aria-controls="collapseThree">
-                      <i className="fa fa-dot-circle"></i> What are the benefits of
-                      social media advertising?
+                      <i className="fa fa-dot-circle"></i>  What’s the difference between organic and paid social media marketing?
                     </button>
                   </h2>
                   <div id="collapseThree" className="accordion-collapse collapse border-0" aria-labelledby="headingThree"
                     data-bs-parent="#accordionExample">
                     <div className="accordion-body">
-                      Social media advertising is a method of promoting products
-                      or services through various social media platforms, using
-                      paid ads and targeting specific audiences to generate leads,
-                      sales, and brand awareness.
+                    Organic social media marketing involves building a following and engaging with users without spending on ads, relying on content quality and audience interaction. Paid social media marketing uses advertising to target specific demographics and achieve quicker, measurable results. A combination of both yields the best results.
                     </div>
                   </div>
                 </div>
@@ -493,17 +479,29 @@ function Service2() {
                     <button className="accordion-button collapsed fw-bold border-0 outline-none shadow-none" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
-                      <i className="fa fa-dot-circle"></i> How much does social media
-                      advertising cost?
+                      <i className="fa fa-dot-circle"></i> What kind of content works best for social media marketing?
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour"
                     data-bs-parent="#accordionExample">
                     <div className="accordion-body">
-                      Social media advertising is a method of promoting products
-                      or services through various social media platforms, using
-                      paid ads and targeting specific audiences to generate leads,
-                      sales, and brand awareness.
+                    Engaging, visual content like images, videos, and infographics typically perform best. Interactive elements such as polls, quizzes, and user-generated content also drive engagement. We create customized content tailored to resonate with your audience and platform.
+                    </div>
+                  </div>
+                </div>
+
+                <div className="accordion-item border-0">
+                  <h2 className="accordion-header" id="headingFive">
+                    <button className="accordion-button collapsed fw-bold border-0 outline-none shadow-none" type="button"
+                      data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
+                      aria-controls="collapseFive">
+                      <i className="fa fa-dot-circle"></i> Which social media platforms are best for my business?
+                    </button>
+                  </h2>
+                  <div id="collapseFive" className="accordion-collapse collapse" aria-labelledby="headingFive"
+                    data-bs-parent="#accordionExample">
+                    <div className="accordion-body">
+                    The best platforms depend on your business goals and target audience. Facebook and Instagram are great for B2C engagement, LinkedIn is ideal for B2B marketing, Twitter helps with real-time communication, while YouTube and Pinterest work well for visual storytelling. We tailor strategies based on your specific needs.
                     </div>
                   </div>
                 </div>
