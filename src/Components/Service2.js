@@ -288,9 +288,9 @@ function Service2() {
                 We target different channels to target multiple platforms to match
                 the diversified needs of our clients.
               </p>
+              <a class="btn-thm-main learn-more" href="#">Contact Now <i class="far fa-angle-double-right"></i></a>
             </div>
           </div>
-          <a class="btn-thm-main learn-more" href="#">Contact Now <i class="far fa-angle-double-right"></i></a>
         </div>
       </section>
 
