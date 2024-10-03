@@ -50,10 +50,7 @@ function Footer() {
             <div className="ft-card">
                 <div className="footer-logo footer-sec">
                 <Link to="/"><img src="assets/images/Frame 22.png" alt="" /></Link>
-                {/* <p>Proactively envisioned multimedia based expertise and cross-media growth strategies seamlessly.</p>
-                <button type="submit" className="btn thm-btn text-white rounded-2 px-3">
-                    Discover More  <i className="far fa-angle-double-right"></i>
-                </button> */}
+               
                 </div>
             </div>
             <div className="ft-card">
@@ -63,13 +60,15 @@ function Footer() {
                     <h3 className="sec-2-heading">Our Services</h3>
                     </li>
                     <li className="footer-items">
-                    <Link to="/online-reputation-management-service" className="footer-link"> Online Reputation Management Service</Link>
+                    <Link to="/digital-marketing-services" className="footer-link"> Digital Marketing Services</Link>
                     </li>
+                   
                     <li className="footer-items">
                     <Link to="/social-media-marketing" className="footer-link"> Social Media Marketing</Link>
                     </li>
+                    
                     <li className="footer-items">
-                    <Link to="/digital-marketing-services" className="footer-link"> Digital Marketing Services</Link>
+                    <Link to="/ppc" className="footer-link"> PPC</Link>
                     </li>
                     <li className="footer-items">
                     <Link to="/website-template" className="footer-link"> Website Template</Link>
@@ -92,9 +91,7 @@ function Footer() {
                     <li className="footer-items">
                     <Link to="/about" className="footer-link"> About Us</Link>
                     </li>
-                    <li className="footer-items">
-                    <Link to="/careers" className="footer-link">Career</Link>
-                    </li>
+                  
                     <li className="footer-items">
                     <Link to="/contact" className="footer-link">Contact</Link>
                     </li>

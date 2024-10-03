@@ -115,9 +115,7 @@ function Layout() {
                                 <li className="tags-link">
                                   <Link to="/social-media-marketing">Social Media Marketing</Link>
                                 </li>
-                                <li className="tags-link">
-                                  <Link to="/digital-marketing-services">Digital Marketing Services</Link>
-                                </li>
+                               
                             </ul>
                             {/* </div> */}
                         </div>
