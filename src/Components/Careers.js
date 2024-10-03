@@ -89,8 +89,8 @@ function Careers() {
             </div>
             <div className="col-lg-7">
               <div className="culture border-left">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam maxime ratione aspernatur excepturi, maiores magni. Vitae accusamus odit culpa sapiente voluptates, deserunt, possimus incidunt animi expedita ea minus dolor nulla?</p>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam maxime ratione aspernatur excepturi, maiores magni. Vitae accusamus odit culpa sapiente voluptates, deserunt, possimus incidunt animi expedita ea minus dolor nulla?</p>
+                <p>At Codezion Softwares Pvt. Ltd., our culture is the heart of everything we do. It’s the force that brings us together, fueling every project and conversation. We believe that collaboration, innovation, and empowerment are the keys to driving success and making a real impact.
+                </p>
               </div>
             </div>
           </div>
@@ -99,21 +99,22 @@ function Careers() {
               <div className="culture-box">
               <i class="fa fa-handshake"></i>
                 <h5>Collaboration</h5>
-                <p>We blend a kaleidoscope of talents, sparking a stmphony of creativity that guides us toword breakthroughs.</p>
+                <p>We bring together diverse talents to create a powerful blend of creativity and teamwork, leading to breakthrough solutions.
+                </p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="culture-box">
               <i class="fa fa-lightbulb"></i>
                 <h5>Innovation</h5>
-                <p>We blend a kaleidoscope of talents, sparking a stmphony of creativity that guides us toword breakthroughs.</p>
+                <p>We are always pushing the boundaries, thinking outside the box, and developing new ideas to stay ahead in the tech world.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="culture-box">
               <i class="fa fa-hand-holding-heart"></i>
                 <h5>Empowerment</h5>
-                <p>We blend a kaleidoscope of talents, sparking a stmphony of creativity that guides us toword breakthroughs.</p>
+                <p>We equip our team with the tools and freedom to make decisions, empowering them to take ownership and shape the future with us.</p>
               </div>
             </div>
           </div>
