@@ -233,7 +233,7 @@ function Service1() {
           </div>
         </div>
       </section>
-
+{/* 
       <section className="comtainer-fluid ppc-marketing section-padding">
         <div className="container">
           <div className="row">
@@ -296,7 +296,7 @@ function Service1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="comtainer-fluid drive-mode section-padding">
         <div className="container">
