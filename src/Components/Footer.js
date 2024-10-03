@@ -91,6 +91,10 @@ function Footer() {
                     <li className="footer-items">
                     <Link to="/about" className="footer-link"> About Us</Link>
                     </li>
+
+                    <li className="footer-items">
+                    <Link to="/careers" className="footer-link"> Career</Link>
+                    </li>
                   
                     <li className="footer-items">
                     <Link to="/contact" className="footer-link">Contact</Link>
@@ -145,7 +149,7 @@ function Footer() {
                         <li><Link to="/termsconditions" className="">Terms of use</Link></li>
                         <li><span className="dot"></span></li>
                         <li><Link to="/" className="">Sitemap</Link></li>
-                        <li><span className="dot"></span></li>
+                        {/* <li><span className="dot"></span></li> */}
                         {/* <li><Link to="/careers" className="">Career</Link></li> */}
                     </ul>
                 </div>
