@@ -46,16 +46,14 @@ function Service2() {
           <div className="col-lg-6 col-md-6 col-sm-12 hero-2-cont divs">
             <div className="div-1">
               <p className="orange-text">
-              Improve your Online Presence with Our Digital Marketing Expertise
+              Social Media Marketing Services to Boost Your Online Presence
               </p>
 
               <h3 className="rect-title text-dark fw-bold">Social Media Marketing</h3>
             </div>
             <div className="div-2 mt-5">
               <p className="page-2-desc">
-                Social Trendzz is a leading social media marketing agency that
-                focuses on driving impactful business growth through social media
-                services.
+              At Codezion, we help businesses enhance their digital presence with our comprehensive social media marketing services. We combine strategy, creativity, and data-driven solutions to deliver impactful results across leading social platforms. Whether you're looking to increase brand awareness, drive traffic, or engage your audience, our expert team will craft tailored social media campaigns that work.
               </p>
             </div>
           </div>
@@ -66,24 +64,11 @@ function Service2() {
         <div className="container px-lg-5">
           <div className="row">
             <div className="col-lg-6 col-md-12 col-sm-12">
-              <h3 className="subtitle">PPC ads campaign</h3>
               <h1 className="main__title text-dark">
-                Trusted Social Media Marketing Services to Take your Business to
-                the Next Level
+              Trusted Social Media Marketing to Elevate Your Business
               </h1>
               <p className="main__desc">
-                Leading social media platforms such as Facebook, Instagram,
-                Twitter, and LinkedIn have vast potential to help businesses find
-                potential customers and drive sales, and profit. Getting
-                professional assistance is the right way to leverage the fullest
-                potential of these social platforms to drive the growth of your
-                business. Social Trendzz helps you target those platforms that
-                accommodate most of your target customers with powerful
-                strategies. We provide world-class social media management
-                services driven by a solid strategy, to businesses of all sizes be
-                they small, enterprise, or established brands. We create and run
-                your social media campaign with a defined goal and among your
-                target customers to increase leads, conversion, and sales.
+              Our social media services cover a wide range of platforms, including Facebook, Instagram, LinkedIn, Twitter, YouTube, and Pinterest. We specialize in designing customized strategies to meet your business goals, whether it's growing your audience, improving engagement, or maximizing conversions. With Codezion, you get full-service social media solutions that help you stay ahead of the competition.
               </p>
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12 img-mar">
@@ -132,7 +117,7 @@ function Service2() {
 
       <section className="services services-second container-fluid section-padding">
         <div className="container main__service px-5">
-          <h5 className="text-center orange-text">Our Process</h5>
+          <h5 className="text-center orange-text">Our Services</h5>
           <h1 className="text-center title__workflow mb-5">
             What Our Social Media
             <span className="text-dark fw-700"> Marketing Services Include</span>
@@ -144,10 +129,9 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/16.png" className="box-icon" alt=""/> Facebook Advertising Services
-                    </h3>
+                      <img src="assets/images/icons/16.png" className="box-icon" alt=""/> Facebook Marketing Services                    </h3>
                     <p className="service__desc">
-                      We at Social Trendzz, a social media marketing company, assist businesses to boost brand awareness by running a Facebook campaign aligned with your business goal. Our experts help you drive more customers to your business.
+                    Maximize your brand's reach with our expert Facebook marketing services. We create targeted ad campaigns designed to engage your audience, boost brand visibility, and drive conversions. From strategy development to ad optimization, we help you connect with the right customers and achieve measurable results. Unlock Facebook’s potential to grow your business with Codezion!
                     </p>
 
                     <Link to="" className="service__link">
@@ -158,10 +142,10 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/17.png" className="box-icon" alt=""/> LinkedIn Marketing Services
+                      <img src="assets/images/icons/17.png" className="box-icon" alt=""/> Instagram Marketing Services
                     </h3>
                     <p className="service__desc">
-                      Our experts set up a LinkedIn campaign and run it successfully while ensuring its reach among the targeted audience. We help you connect with your potential customers to grab opportunities to increase leads, conversion, and sales.
+                    Elevate your brand with our tailored Instagram marketing services. We create visually engaging content and strategic ad campaigns to grow your audience, boost engagement, and drive conversions. From posts to stories, we help you connect with your target audience and build lasting brand loyalty. Let Codezion take your Instagram presence to the next level!
                     </p>
 
                     <Link to="" className="service__link">
@@ -172,10 +156,10 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/18.png" className="box-icon" alt=""/> Instagram Marketing Services
+                      <img src="assets/images/icons/18.png" className="box-icon" alt=""/> Twitter Marketing Services
                     </h3>
                     <p className="service__desc">
-                      With us, you can harness the power of Instagram to attract more followers for your business. Our social media experts create the targeted campaign to boost your brand engagement and also improve the visibility of your Instagram account.
+                    Enhance your brand’s visibility with our specialized Twitter marketing services. At Codezion, we craft engaging tweets, leverage trending hashtags, and run targeted ad campaigns to increase your followers and drive engagement. Whether it's building real-time conversations or boosting brand awareness, our strategies help you connect with your audience and grow your business on Twitter. Boost your online presence with Codezion's expert Twitter marketing today!
                     </p>
 
                     <Link to="" className="service__link">
@@ -186,10 +170,10 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/19.png" className="box-icon" alt=""/> YouTube Marketing Services
+                      <img src="assets/images/icons/19.png" className="box-icon" alt=""/> LinkedIn Marketing Services
                     </h3>
                     <p className="service__desc">
-                      Video advertising is on the rise of late and many businesses already benefit from this. At Social Trendzz, our social media marketing services help you target YouTube to grow your business. We create and advertise videos on YouTube.
+                    Strengthen your professional network with Codezion’s LinkedIn marketing services. We create targeted B2B campaigns, optimize your company profile, and share industry-relevant content to connect you with key decision-makers. Whether you're looking to generate leads or build brand authority, our LinkedIn strategies help you grow your business and reach the right audience. Elevate your LinkedIn presence with Codezion today!
                     </p>
 
                     <Link to="" className="service__link">
@@ -200,10 +184,10 @@ function Service2() {
                 <div className="col-lg-4 col-md-6 col-sm-12 cards_cont">
                   <div className="content">
                     <h3 className="service__title">
-                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> Pinterest Marketing Services Advertisement
+                      <img src="assets/images/icons/20.png" className="box-icon" alt=""/> YouTube marketing services
                     </h3>
                     <p className="service__desc">
-                      Pinterest has a vast potential to help the business grow by achieving its goal. We render Pinterest marketing services to help your business increase vast traffic to your website and increase sales by drawing the attention of more people with different interests.
+                    Grow your brand with Codezion’s YouTube marketing services. We create engaging video content, optimize your channel for search, and run targeted ad campaigns to reach a wider audience. From boosting views and subscribers to increasing engagement, our strategies help you maximize YouTube’s potential for business growth. Elevate your video marketing with Codezion and drive impactful results today!
                     </p>
 
                     <Link to="" className="service__link">
@@ -238,16 +222,14 @@ function Service2() {
               <img src="assets/images/12.png" alt="" />
             </div>
             <div className="col-lg-6 ppc-clg">
-              <h5 className="orange-text">Pay per click</h5>
 
               <h3>
-                Why Social 
-                <span className="text-dark fw-bold"> Media<br /> for Business</span>
+              Why Choose
+                <span className="text-dark fw-bold"> Social Media Marketing<br /> for Your Business?</span>
               </h3>
 
               <p className="text-gray">
-                We target different channels to target multiple platforms to match
-                the diversified needs of our clients.
+              Social media is a powerful tool for connecting with customers, building brand loyalty, and driving business growth. With over 4.2 billion social media users worldwide, it's essential to leverage these platforms to stay competitive. At Codezion, we develop tailored strategies based on your business needs and industry trends to ensure you're reaching the right audience.
               </p>
 
               <div className="ppc-content-box">
@@ -255,12 +237,10 @@ function Service2() {
                   <img src="assets/images/SVG (4).png" alt="" />
 
                   <div className="text-box">
-                    <h4 className="text-dark fw-bold">4.74 Billion</h4>
+                    <h3 className="text-dark fw-bold">Key Benefits:</h3>
+                    <h4 className="text-dark fw-bold">Global Reach:</h4>
                     <p className="text-gray">
-                      Google is one of the platforms that let you target different
-                      categories of audiences. We run the most effective campaign
-                      for Google AdWords India to help you find potential
-                      customers for your products.
+                      Engage with a vast audience across multiple platforms.
                     </p>
                   </div>
                 </div>
@@ -268,11 +248,9 @@ function Service2() {
                   <img src="assets/images/SVG (5).png" alt="" />
 
                   <div className="text-box">
-                    <h4 className="text-dark fw-bold">2 Hours and 28 Minutes</h4>
+                    <h4 className="text-dark fw-bold">Real-Time Interaction:</h4>
                     <p className="text-gray">
-                      We create an impeccable strategy to run your Display
-                      advertisement. We run a Google Display advertising campaign
-                      to help your brand grow and generate more sales.
+                    Communicate directly with your audience, fostering trust and loyalty.
                     </p>
                   </div>
                 </div>
@@ -280,15 +258,13 @@ function Service2() {
                   <img src="assets/images/SVG (6).png" alt="" />
 
                   <div className="text-box">
-                    <h4 className="text-dark fw-bold">$268+ Billion</h4>
+                    <h4 className="text-dark fw-bold">Cost-Effective Marketing: </h4>
                     <p className="text-gray">
-                      Whether you want to promote your business or products and
-                      services, YouTube is the right platform. A one of the
-                      top-rated PPC consultants India, we set up effective
-                      campaigns to help you get maximum advantages.
+                    Run targeted campaigns that maximize ROI and deliver measurable results.
                     </p>
                   </div>
                 </div>
+                <a class="btn-thm-main learn-more" href="#">Contact Now <i class="far fa-angle-double-right"></i></a>
               </div>
             </div>
           </div>
