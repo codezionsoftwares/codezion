@@ -5,7 +5,7 @@ import Layout from './Layout';
 import BannerSlider from './BannerSlider';
 // import ChooseusSlider from './ChooseusSlider';
 import IndustrySlider from './IndustrySlider';
-import PartnerSlider from './PartnerSlider';
+// import PartnerSlider from './PartnerSlider';
 // import Counter from './Counter';
 import TestimialSleder from './TestimialSleder';
 import { Helmet } from 'react-helmet-async';
@@ -401,9 +401,9 @@ function Home() {
     </div>
   </section>
   {/* testimonial end */}
-  <section className="trusted--sectiona section-padding p-0">    
+  {/* <section className="trusted--sectiona section-padding p-0">    
     <PartnerSlider/>
-  </section>
+  </section> */}
   {/* <!-- =============== Section Form ===================== --> */}
   {/* footer */}
   <Footer/>

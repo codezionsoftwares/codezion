@@ -161,15 +161,15 @@ function Careers() {
       <section className='section-padding pb-0'>
         <div className="container">
         <div className="join-title text-center">
-            <h3 className='py-4'>Why Join HawksCode?</h3>
+            <h3 className='py-4'>Why Join Codezion?</h3>
           </div>
           <div className="row">
             <div className="col-lg-3 col-md-4 col-sm-6">
               <div className="join-card">
               <img src="assets/images/icons/join1.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Cutting-Edge-Projects</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Innovative Projects & Cutting-Edge Technology</h5>
+                  <p>Work on exciting projects that push the boundaries of technology. At Codezion, you’ll get hands-on experience with the latest tools and platforms, contributing to dynamic solutions in software development, digital marketing, and more.</p>
                 </div>
               </div>
             </div>
@@ -177,8 +177,10 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join2.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Career Growth</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Career Growth 
+                  </h5>
+                  <p>We believe in continuous learning and development. Whether you’re just starting your career or looking to advance your skills, Codezion provides opportunities for growth through mentorship, workshops, certifications, and exposure to new technologies.
+                  </p>
                 </div>
               </div>
             </div>
@@ -186,8 +188,9 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join3.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Competitive Compensation</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Supportive Environment
+                  </h5>
+                  <p>Codezion fosters a culture of collaboration where your ideas matter. Work alongside talented professionals in a supportive, open-minded atmosphere where everyone is encouraged to share their knowledge and work together towards success.</p>
                 </div>
               </div>
             </div>
@@ -195,8 +198,8 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join4.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Comprehensive Benefits</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Global Impact </h5>
+                  <p>Join a team that works with clients across the globe, from startups to large enterprises. Our reach spans over 30+ countries, giving you the opportunity to make a real difference in various industries, including e-commerce, IT, and digital marketing.</p>
                 </div>
               </div>
             </div>
@@ -204,8 +207,8 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join5.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Global Exposure</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Flexible Work Culture </h5>
+                  <p>We understand the importance of work-life balance. With flexible working hours, remote options, and a results-driven mindset, Codezion ensures you have the freedom to work in a way that suits your lifestyle while maintaining productivity.</p>
                 </div>
               </div>
             </div>
@@ -213,8 +216,8 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join6.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Learning Opportunities</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Employee Well-being </h5>
+                  <p>We care about our team’s well-being. Codezion provides a supportive work environment with wellness programs, team-building activities, and opportunities to relax and recharge.</p>
                 </div>
               </div>
             </div>
@@ -222,8 +225,8 @@ function Careers() {
               <div className="join-card">
               <img src="assets/images/icons/join7.png" alt="" />
                 <div className="howkacode-text">
-                  <h5>Startup Culture with Stability</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta id hic doloremque! Facere in explicabo </p>
+                  <h5>Recognition & Rewards</h5>
+                  <p>Your hard work doesn’t go unnoticed at Codezion. We celebrate achievements and offer performance-based rewards, recognizing our employees’ contributions to the company’s success.</p>
                 </div>
               </div>
             </div>

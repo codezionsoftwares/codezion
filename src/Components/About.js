@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Layout from './Layout'
 import Footer from './Footer'
-import PartnerSlider from './PartnerSlider'
+// import PartnerSlider from './PartnerSlider'
 import Counter from './Counter'
 import { Helmet } from 'react-helmet-async';
 
@@ -29,7 +29,7 @@ function About() {
         <meta name="keywords" content="About Us, coustom web development, digital marketing services, mobile app development, web design services"/>
 
         <link rel="canonical" href="https://www.codezion.com/about"/>
-        
+        <meta name="robots" content="index, follow" />
       </Helmet>
     <Layout/>
       {/* ---------------- */}
@@ -149,9 +149,9 @@ function About() {
         </div>
       </section>
       {/* talk us end */}
-      <section className="trusted--sectiona section-padding p-0">    
+      {/* <section className="trusted--sectiona section-padding p-0">    
         <PartnerSlider/>
-      </section>
+      </section> */}
       {/* ----- */}
       
       <Footer/>

@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Footer from './Footer'
 import Layout from './Layout'
-import PartnerSlider from './PartnerSlider'
+// import PartnerSlider from './PartnerSlider'
 import TestimialSleder from './TestimialSleder'
 import { Helmet } from 'react-helmet-async';
 
@@ -476,9 +476,9 @@ function Service1() {
     </div>
   </section>
   {/* testimonial end */}
-  <section className="trusted--sectiona section-padding p-0">    
+  {/* <section className="trusted--sectiona section-padding p-0">    
     <PartnerSlider/>
-  </section>
+  </section> */}
     <Footer/>
     </div>
   )
