@@ -15,7 +15,7 @@ import CareerDetails from './Components/CareerDetails';
 
 function App() {
   return (
-    <BrowserRouter basename='codezion'>
+    <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/about' element={<About/>} />
